@@ -5,9 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-red.svg)](https://github.com/Maliciz/Frontline-Warfare-RTS)
 [![Offline](https://img.shields.io/badge/Offline-100%25%20Battery%20Ready-brightgreen.svg)]()
 
-> **Повноцінна військова тактична стратегія реального часу (RTS)**, створена спеціально для комфортної гри офлайн на ноутбуці або ПК без доступу до електромережі та інтернету.
 
----
 
 ## 🪖 Особливості та ігрова механіка
 
